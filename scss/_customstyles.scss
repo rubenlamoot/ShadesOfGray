@@ -89,6 +89,14 @@
 .bgicons:hover{
   color: #3baafe;
 }
+.bgicons2{
+  background: #555555;
+  width: 45px;
+  line-height: 45px !important;
+}
+.blok_whatwedo:hover .bgicons2{
+  background: #3baafe;
+}
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @include media-breakpoint-up(sm) {  }
