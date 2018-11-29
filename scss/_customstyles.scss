@@ -98,6 +98,16 @@
   background: #3baafe;
 }
 
+.bg-color-wework{
+  background: #ebebeb;
+}
+.check-icon{
+  background: #fff;
+  width: 35px;
+  line-height: 35px !important;
+}
+
+
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @include media-breakpoint-up(sm) {  }
 @include media-breakpoint-up(md) {  }
@@ -131,6 +141,9 @@
     position: absolute;
     top: 50%;
     transform: translate(0,-50%);
+  }
+  .bg-wework{
+    background: url("../assets/images/background2.png");
   }
 }
 

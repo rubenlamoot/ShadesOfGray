@@ -7576,6 +7576,14 @@ a.text-dark:hover, a.text-dark:focus {
 .blok_whatwedo:hover .bgicons2 {
   background: #3baafe; }
 
+.bg-color-wework {
+  background: #ebebeb; }
+
+.check-icon {
+  background: #fff;
+  width: 35px;
+  line-height: 35px !important; }
+
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @media (min-width: 992px) {
   .d-fixed-top {
@@ -7601,4 +7609,6 @@ a.text-dark:hover, a.text-dark:focus {
     top: 50%;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
-    transform: translate(0, -50%); } }
+    transform: translate(0, -50%); }
+  .bg-wework {
+    background: url("../assets/images/background2.png"); } }
