@@ -107,6 +107,30 @@
   line-height: 35px !important;
 }
 
+.foto{
+  border: 10px solid #e6e6e6;
+}
+.mijnborder{
+  background : #f5f5f5;
+}
+.naam{
+  background: #fff;
+  width: 0;
+  transition: width 2s;
+
+}
+.functie{
+  background: #e6e6e6;
+  width: 0;
+  transition: width 2s;
+}
+.mijnborder:hover .naam {
+  width: 150px;
+  color: #3baafe;
+}
+.mijnborder:hover .functie {
+  width: 150px;
+}
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @include media-breakpoint-up(sm) {  }
