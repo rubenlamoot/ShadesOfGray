@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="412f0863-6add-4a7b-ab45-3d65fb4ff96e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_customstyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_customstyles.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,8 +93,30 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1275846214">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="85" />
+          <entry key="scss" value="106" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="85" />
+          <entry key="SCSS" value="106" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
@@ -117,6 +141,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+>>>>>>> f2dc08c940733374e6215fb081ddfb2638a6c04b
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,10 +180,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="32" />
+    <option name="x" value="-10" />
     <option name="y" value="6" />
-    <option name="width" value="1396" />
-    <option name="height" value="810" />
+    <option name="width" value="1414" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -166,34 +193,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Shadesofgray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shadesofgray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shadesofgray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shadesofgray" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shadesofgray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shadesofgray" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="ShadesOfGray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShadesOfGray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shades2/Shadesofgray/scss/_customstyles.scss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shades2/Shadesofgray" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -232,17 +249,29 @@
       <workItem from="1543392417118" duration="11689000" />
       <workItem from="1543478618080" duration="24350000" />
       <workItem from="1543572784629" duration="1599000" />
+<<<<<<< HEAD
       <workItem from="1543824368024" duration="25466000" />
+=======
+      <workItem from="1543824368024" duration="25407000" />
+      <workItem from="1543930241214" duration="4120000" />
+>>>>>>> f2dc08c940733374e6215fb081ddfb2638a6c04b
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="84266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="88327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+>>>>>>> f2dc08c940733374e6215fb081ddfb2638a6c04b
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12739871" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12885906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,34 +342,21 @@
     <entry file="file://$PROJECT_DIR$/css/_customstyles.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Advanced HTML/MiFestival/index2.html">
+    <entry file="file://$PROJECT_DIR$/../Advanced HTML/MiFestival/index2.html" />
+    <entry file="file://$PROJECT_DIR$/../Advanced HTML/MiFestival/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../Shades2/Shadesofgray/index.html" />
+    <entry file="file://$PROJECT_DIR$/../Shades2/Shadesofgray/scss/_customstyles.scss" />
+    <entry file="file://$PROJECT_DIR$/scss/_customstyles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4029" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Advanced HTML/MiFestival/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../shades2/Shadesofgray/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="434" lean-forward="true" selection-start-line="434" selection-end-line="434" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../shades2/Shadesofgray/scss/_customstyles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="233" column="3" lean-forward="true" selection-start-line="165" selection-start-column="2" selection-end-line="233" selection-end-column="3" />
+        <state relative-caret-position="538">
+          <caret line="213" lean-forward="true" selection-start-line="213" selection-end-line="213" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="395" column="36" selection-start-line="395" selection-start-column="36" selection-end-line="395" selection-end-column="36" />
+        <state relative-caret-position="575">
+          <caret line="418" column="6" lean-forward="true" selection-start-line="418" selection-start-column="6" selection-end-line="418" selection-end-column="6" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -348,6 +364,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/scss/_customstyles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
@@ -355,5 +372,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> f2dc08c940733374e6215fb081ddfb2638a6c04b
   </component>
 </project>

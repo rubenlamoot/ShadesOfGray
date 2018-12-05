@@ -7626,10 +7626,8 @@ a.text-dark:hover, a.text-dark:focus {
   color: #9e9e9e; }
 
 .bglinks {
-  background: #fafafa; }
-
-.bgrechts {
-  background: #eeeeee; }
+  background: #fafafa;
+  overflow: hidden; }
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @media (min-width: 992px) {
@@ -7662,7 +7660,12 @@ a.text-dark:hover, a.text-dark:focus {
   .txt_ourwork {
     width: 85%; }
   .bgrechts {
-    width: 0;
-    height: 0;
-    border-left: 80px solid #fafafa;
-    border-bottom: 470px solid #eeeeee; } }
+    background: #eeeeee;
+    -webkit-transform: skewX(-15deg);
+    -ms-transform: skewX(-15deg);
+    transform: skewX(-15deg); }
+  .bgrechts_back {
+    background: #eeeeee;
+    -webkit-transform: skewX(15deg);
+    -ms-transform: skewX(15deg);
+    transform: skewX(15deg); } }
