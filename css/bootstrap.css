@@ -7691,6 +7691,20 @@ a.text-dark:hover, a.text-dark:focus {
 .divLinks a:hover {
   color: #3baafe !important; }
 
+.txtInfo {
+  background: #f6f6f6;
+  height: 100%; }
+
+#carouselExampleControls2 .fa-chevron-circle-left {
+  position: absolute;
+  left: 235%;
+  bottom: -3%; }
+
+#carouselExampleControls2 .fa-chevron-circle-right {
+  position: absolute;
+  bottom: -3%;
+  left: -250%; }
+
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @media (min-width: 992px) {
   .d-fixed-top {
@@ -7737,4 +7751,12 @@ a.text-dark:hover, a.text-dark:focus {
   .fa-chevron-circle-left {
     left: 0%; }
   .fa-chevron-circle-right {
-    right: 620%; } }
+    right: 620%; }
+  #carouselExampleControls2 .fa-chevron-circle-left {
+    position: absolute;
+    left: 5%;
+    bottom: 5%; }
+  #carouselExampleControls2 .fa-chevron-circle-right {
+    position: absolute;
+    bottom: 5%;
+    left: -530%; } }
