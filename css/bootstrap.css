@@ -7680,7 +7680,7 @@ a.text-dark:hover, a.text-dark:focus {
   left: 0%; }
 
 .fa-chevron-circle-right {
-  right: 500%; }
+  right: 15%; }
 
 #btnAll {
   background: #555555; }
@@ -7697,13 +7697,36 @@ a.text-dark:hover, a.text-dark:focus {
 
 #carouselExampleControls2 .fa-chevron-circle-left {
   position: absolute;
-  left: 235%;
+  left: 35%;
   bottom: -3%; }
 
 #carouselExampleControls2 .fa-chevron-circle-right {
   position: absolute;
   bottom: -3%;
-  left: -250%; }
+  left: 55%; }
+
+.prijslijst span {
+  font-weight: bold;
+  font-size: 1.5rem; }
+
+.item1 {
+  background: #e6e6e6; }
+
+.item2 {
+  background: #b6b6b6; }
+
+.item3 {
+  background: #999999; }
+
+.item4 {
+  background: #777777; }
+
+.prijslijst:hover a {
+  background: #3baafe !important;
+  color: #fff; }
+
+.prijslijst:hover .item1 {
+  color: #3baafe; }
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @media (min-width: 992px) {
@@ -7751,7 +7774,7 @@ a.text-dark:hover, a.text-dark:focus {
   .fa-chevron-circle-left {
     left: 0%; }
   .fa-chevron-circle-right {
-    right: 620%; }
+    left: 5%; }
   #carouselExampleControls2 .fa-chevron-circle-left {
     position: absolute;
     left: 5%;
@@ -7759,4 +7782,4 @@ a.text-dark:hover, a.text-dark:focus {
   #carouselExampleControls2 .fa-chevron-circle-right {
     position: absolute;
     bottom: 5%;
-    left: -530%; } }
+    left: 10%; } }
