@@ -258,6 +258,9 @@
 .facts_text{
   font-size: 0.8rem;
 }
+.bg_footer{
+  background: #555555;
+}
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @include media-breakpoint-up(sm) {  }
