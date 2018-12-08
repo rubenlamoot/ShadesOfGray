@@ -7680,7 +7680,7 @@ a.text-dark:hover, a.text-dark:focus {
   left: 0%; }
 
 .fa-chevron-circle-right {
-  right: 15%; }
+  left: 15%; }
 
 #btnAll {
   background: #555555; }
@@ -7727,6 +7727,17 @@ a.text-dark:hover, a.text-dark:focus {
 
 .prijslijst:hover .item1 {
   color: #3baafe; }
+
+.bg_facts {
+  background: #2a2929; }
+
+.facts_numbers {
+  border-left: 2px solid white;
+  font-size: 1.5rem;
+  margin-bottom: 0; }
+
+.facts_text {
+  font-size: 0.8rem; }
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @media (min-width: 992px) {
