@@ -7555,7 +7555,7 @@ a.text-dark:hover, a.text-dark:focus {
   text-shadow: 2px 2px 2px grey; }
 
 #chooseus .articlebg {
-  padding: 0px 4%; }
+  padding: 0 4%; }
 
 .h2h3color-b {
   color: #777;
@@ -7721,11 +7721,15 @@ a.text-dark:hover, a.text-dark:focus {
 .item4 {
   background: #777777; }
 
-.prijslijst:hover a {
+.prijslijst {
+  text-decoration: none;
+  list-style-type: none; }
+
+.prijslijst:hover li a {
   background: #3baafe !important;
   color: #fff; }
 
-.prijslijst:hover .item1 {
+.prijslijst:hover .item1, .prijslijst:hover .item2, .prijslijst:hover .item3, .prijslijst:hover .item4 {
   color: #3baafe; }
 
 .bg_facts {
@@ -7741,6 +7745,19 @@ a.text-dark:hover, a.text-dark:focus {
 
 .bg_footer {
   background: #555555; }
+
+footer h3 {
+  font-size: 1.2rem; }
+
+.social-icon {
+  background: #b6b6b6;
+  width: 35px;
+  line-height: 35px !important; }
+
+.mijn_links {
+  text-decoration: none;
+  list-style-type: none;
+  line-height: 215%; }
 
 /**MEDIAQUERIES (ALLES WAT GROTER IS DAN MOBILE**/
 @media (min-width: 992px) {
